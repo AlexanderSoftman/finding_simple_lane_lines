@@ -1,0 +1,3 @@
+[console_scripts]
+finding_simple_lane_lines = finding_simple_lane_lines.finding_simple_lane_lines:main
+
